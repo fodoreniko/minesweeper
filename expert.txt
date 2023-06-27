@@ -1,0 +1,4 @@
+anna 121
+gabor 300
+julcsi 250
+pali 500

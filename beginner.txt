@@ -1,0 +1,8 @@
+bobo 93
+alma 240
+janos 500
+balazs 250
+bobo 104
+bobo 18
+bobo 14
+bobo 25
