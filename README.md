@@ -12,3 +12,4 @@ A tábla mérete és az aknák száma a nehézségi szinttől függően változi
     o	haladó: 30x16-os tábla, 99 aknával
 A játék során a játékos segítségül használhat úgynevezett zászlókat, amivel megjelölheti azokat a mezőket, amik szerinte aknát rejtenek. Így figyelemmel követheti a hátramaradó aknák számát, ami a zászlók lerakásának függvényében csökken. Továbbá meg van jelenítve egy számláló, ami azt mutatja, hogy a játékos mennyi ideje kezdte el az aknakeresőt. 
 Ezen felül lesz egy pályaépítő mód, amelyben a felhasználó megépítheti a saját pályáját, tehát tetszőlegesen elhelyezheti az aknákat, majd ezt később betöltve játszani is tud vele.
+
